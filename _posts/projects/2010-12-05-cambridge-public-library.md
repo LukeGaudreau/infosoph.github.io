@@ -5,7 +5,7 @@ description: "Redesign of the Cambridge Public Library Website"
 categories: projects
 tagline: "LIS467 - Information Architecture"
 image: "cpl.png"
-link: "http://infosoph.org/cpl"
+link: "http://infosoph.org/CPL"
 repo: CPL
 ---
 {% include JB/setup %}
