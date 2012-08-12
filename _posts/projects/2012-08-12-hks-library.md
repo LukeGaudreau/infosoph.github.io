@@ -1,9 +1,9 @@
 ---
 layout: project
 title: "HKS Library"
-description: "Website for Harvard Kennedy School Library & Knowledge Services"
+description: "Website for Harvard Kennedy School Library &amp; Knowledge Services"
 category: projects
-tagline: "Harvard Kennedy School Library & Knowledge Services"
+tagline: "Harvard Kennedy School Library &amp; Knowledge Services"
 image: "hks.png"
 link: "http://www.hks.harvard.edu/library"
 ---

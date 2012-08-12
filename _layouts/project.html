@@ -23,9 +23,11 @@ layout: default
           <h5>{{ page.title }}</h5>
           <p>{{ page.description }}</p>
           <p>
+            {% if page.repo %}
             <a class="btn btn-primary"
                 href="http://github.com/infosoph/{{ page.repo }}">View
               source</a>
+            {% endif %}
             <a class="btn" href="{{ page.link }}">View site</a>
           </p>
         </div>
